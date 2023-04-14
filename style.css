@@ -66,6 +66,7 @@
 
 /* About */
 #about {
+    padding-top: 100px;
     background-color: #0693E3;
 }
 .container-about {
@@ -74,6 +75,9 @@
 /* End About */
 
 /* Portofolio */
+#porto {
+    padding-top: 100px;
+}
 .flex {
     display: flex;
     align-items: center;
@@ -85,6 +89,7 @@
 
 /* Contact */
 #contact {
+    padding-top: 100px;
     background-color: black;
 }
 .form-contact {
@@ -152,7 +157,6 @@
 footer {
     background-color: #1A2332;
     height: auto;
-    width: 100vw;
     padding-top: 40px;
 }
 .footer-content{
